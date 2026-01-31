@@ -1,5 +1,7 @@
 # รายวิชา: ข้อมูลขนาดใหญ่ (Big Data)
 
+ชื่อ จิตติเทพ วสุนันต์ 6704800052
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/witsarutsarai12-Academic/128-356-Big-Data/blob/main/BigData_Week1_Slides_in_Jupyter.ipynb)
 
 ## 📌 ภาพรวมรายวิชา
